@@ -12,9 +12,7 @@ const MainLayouts = () => {
                     <Logo></Logo>
                     <Navbar></Navbar>
                 </div>
-                <div>
-                    <Banner></Banner>
-                </div>
+                
             </div>
 
             <div>

@@ -2,7 +2,7 @@ import React from 'react';
 import ProductCard from './ProductCard';
 
 const Products = ({prodcuts}) => {
-    console.log(prodcuts)
+    
     return (
         <div>
             
