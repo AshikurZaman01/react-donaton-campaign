@@ -1,0 +1,179 @@
+[
+    {
+      "id": 1,
+      "picture": "health_item1.jpg",
+      "title": "Healthy Lifestyle Guide",
+      "category": "Health",
+      "category_bg": "text-blue-600",
+      "card_bg": "bg-blue-100",
+      "text_button_bg": "bg-blue-200",
+      "description": "A comprehensive guide to maintaining a healthy lifestyle.",
+      "price": 19.99
+    },
+    {
+      "id": 2,
+      "picture": "food_item1.jpg",
+      "title": "Organic Red Apples",
+      "category": "Food",
+      "category_bg": "bg-red-600",
+      "card_bg": "bg-red-100",
+      "text_button_bg": "bg-red-200",
+      "description": "Delicious and nutritious organic red apples.",
+      "price": 3.99
+    },
+    {
+      "id": 3,
+      "picture": "clothing_item1.jpg",
+      "title": "Men's Green Polo Shirt",
+      "category": "Clothing",
+      "category_bg": "text-green-400",
+      "card_bg": "bg-green-100",
+      "text_button_bg": "bg-green-200",
+      "description": "A stylish green polo shirt for men.",
+      "price": 29.99
+    },
+    {
+      "id": 4,
+      "picture": "education_item1.jpg",
+      "title": "Mathematics Workbook",
+      "category": "Education",
+      "category_bg": "text-red-500",
+      "card_bg": "bg-red-100",
+      "text_button_bg": "bg-red-200",
+      "description": "A workbook to help improve your math skills.",
+      "price": 12.99
+    },
+    {
+      "id": 5,
+      "picture": "health_item2.jpg",
+      "title": "Yoga Mat - Blue",
+      "category": "Health",
+      "category_bg": "text-blue-600",
+      "card_bg": "bg-blue-100",
+      "text_button_bg": "bg-blue-200",
+      "description": "A comfortable yoga mat in a soothing blue color.",
+      "price": 24.99
+    },
+    {
+      "id": 6,
+      "picture": "food_item2.jpg",
+      "title": "Fresh Strawberries",
+      "category": "Food",
+      "category_bg": "bg-red-600",
+      "card_bg": "bg-red-100",
+      "text_button_bg": "bg-red-200",
+      "description": "Juicy and ripe strawberries for a healthy snack.",
+      "price": 5.99
+    },
+    {
+      "id": 7,
+      "picture": "clothing_item2.jpg",
+      "title": "Women's Red Dress",
+      "category": "Clothing",
+      "category_bg": "text-green-400",
+      "card_bg": "bg-green-100",
+      "text_button_bg": "bg-green-200",
+      "description": "A stunning red dress for women.",
+      "price": 39.99
+    },
+    {
+      "id": 8,
+      "picture": "education_item2.jpg",
+      "title": "Science Textbook",
+      "category": "Education",
+      "category_bg": "text-red-500",
+      "card_bg": "bg-red-100",
+      "text_button_bg": "bg-red-200",
+      "description": "A comprehensive science textbook for students.",
+      "price": 29.99
+    },
+    {
+      "id": 9,
+      "picture": "health_item3.jpg",
+      "title": "Fitness Tracker Watch",
+      "category": "Health",
+      "category_bg": "text-blue-600",
+      "card_bg": "bg-blue-100",
+      "text_button_bg": "bg-blue-200",
+      "description": "Track your fitness goals with this stylish watch.",
+      "price": 59.99
+    },
+    {
+      "id": 10,
+      "picture": "food_item3.jpg",
+      "title": "Organic Green Kale",
+      "category": "Food",
+      "category_bg": "bg-red-600",
+      "card_bg": "bg-red-100",
+      "text_button_bg": "bg-red-200",
+      "description": "Fresh and organic green kale for your salads.",
+      "price": 2.99
+    },
+    {
+      "id": 11,
+      "picture": "clothing_item3.jpg",
+      "title": "Men's Blue Jeans",
+      "category": "Clothing",
+      "category_bg": "text-green-400",
+      "card_bg": "bg-green-100",
+      "text_button_bg": "bg-green-200",
+      "description": "Classic blue jeans for men.",
+      "price": 34.99
+    },
+    {
+      "id": 12,
+      "picture": "education_item3.jpg",
+      "title": "History Encyclopedia",
+      "category": "Education",
+      "category_bg": "text-red-500",
+      "card_bg": "bg-red-100",
+      "text_button_bg": "bg-red-200",
+      "description": "Explore the world's history with this encyclopedia.",
+      "price": 19.99
+    },
+    {
+      "id": 13,
+      "picture": "health_item4.jpg",
+      "title": "Herbal Tea Assortment",
+      "category": "Health",
+      "category_bg": "text-blue-600",
+      "card_bg": "bg-blue-100",
+      "text_button_bg": "bg-blue-200",
+      "description": "A collection of soothing herbal teas.",
+      "price": 9.99
+    },
+    {
+      "id": 14,
+      "picture": "food_item4.jpg",
+      "title": "Fresh Salmon Fillet",
+      "category": "Food",
+      "category_bg": "bg-red-600",
+      "card_bg": "bg-red-100",
+      "text_button_bg": "bg-red-200",
+      "description": "High-quality fresh salmon fillet for your recipes.",
+      "price": 12.99
+    },
+    {
+      "id": 15,
+      "picture": "clothing_item4.jpg",
+      "title": "Women's Green Sweater",
+      "category": "Clothing",
+      "category_bg": "text-green-400",
+      "card_bg": "bg-green-100",
+      "text_button_bg": "bg-green-200",
+      "description": "A cozy green sweater for women.",
+      "price": 19.99
+    },
+    {
+      "id": 16,
+      "picture": "education_item4.jpg",
+      "title": "Art Supplies Kit",
+      "category": "Education",
+      "category_bg": "text-red-500",
+      "card_bg": "bg-red-100",
+      "text_button_bg": "bg-red-200",
+      "description": "Unlock your creativity with this art supplies kit.",
+      "price": 14.99
+    }
+  ]
+  
