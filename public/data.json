@@ -1,179 +1,179 @@
 [
-    {
-      "id": 1,
-      "picture": "health_item1.jpg",
-      "title": "Healthy Lifestyle Guide",
-      "category": "Health",
-      "category_bg": "text-blue-600",
-      "card_bg": "bg-blue-100",
-      "text_button_bg": "bg-blue-200",
-      "description": "A comprehensive guide to maintaining a healthy lifestyle.",
-      "price": 19.99
-    },
-    {
-      "id": 2,
-      "picture": "food_item1.jpg",
-      "title": "Organic Red Apples",
-      "category": "Food",
-      "category_bg": "bg-red-600",
-      "card_bg": "bg-red-100",
-      "text_button_bg": "bg-red-200",
-      "description": "Delicious and nutritious organic red apples.",
-      "price": 3.99
-    },
-    {
-      "id": 3,
-      "picture": "clothing_item1.jpg",
-      "title": "Men's Green Polo Shirt",
-      "category": "Clothing",
-      "category_bg": "text-green-400",
-      "card_bg": "bg-green-100",
-      "text_button_bg": "bg-green-200",
-      "description": "A stylish green polo shirt for men.",
-      "price": 29.99
-    },
-    {
-      "id": 4,
-      "picture": "education_item1.jpg",
-      "title": "Mathematics Workbook",
-      "category": "Education",
-      "category_bg": "text-red-500",
-      "card_bg": "bg-red-100",
-      "text_button_bg": "bg-red-200",
-      "description": "A workbook to help improve your math skills.",
-      "price": 12.99
-    },
-    {
-      "id": 5,
-      "picture": "health_item2.jpg",
-      "title": "Yoga Mat - Blue",
-      "category": "Health",
-      "category_bg": "text-blue-600",
-      "card_bg": "bg-blue-100",
-      "text_button_bg": "bg-blue-200",
-      "description": "A comfortable yoga mat in a soothing blue color.",
-      "price": 24.99
-    },
-    {
-      "id": 6,
-      "picture": "food_item2.jpg",
-      "title": "Fresh Strawberries",
-      "category": "Food",
-      "category_bg": "bg-red-600",
-      "card_bg": "bg-red-100",
-      "text_button_bg": "bg-red-200",
-      "description": "Juicy and ripe strawberries for a healthy snack.",
-      "price": 5.99
-    },
-    {
-      "id": 7,
-      "picture": "clothing_item2.jpg",
-      "title": "Women's Red Dress",
-      "category": "Clothing",
-      "category_bg": "text-green-400",
-      "card_bg": "bg-green-100",
-      "text_button_bg": "bg-green-200",
-      "description": "A stunning red dress for women.",
-      "price": 39.99
-    },
-    {
-      "id": 8,
-      "picture": "education_item2.jpg",
-      "title": "Science Textbook",
-      "category": "Education",
-      "category_bg": "text-red-500",
-      "card_bg": "bg-red-100",
-      "text_button_bg": "bg-red-200",
-      "description": "A comprehensive science textbook for students.",
-      "price": 29.99
-    },
-    {
-      "id": 9,
-      "picture": "health_item3.jpg",
-      "title": "Fitness Tracker Watch",
-      "category": "Health",
-      "category_bg": "text-blue-600",
-      "card_bg": "bg-blue-100",
-      "text_button_bg": "bg-blue-200",
-      "description": "Track your fitness goals with this stylish watch.",
-      "price": 59.99
-    },
-    {
-      "id": 10,
-      "picture": "food_item3.jpg",
-      "title": "Organic Green Kale",
-      "category": "Food",
-      "category_bg": "bg-red-600",
-      "card_bg": "bg-red-100",
-      "text_button_bg": "bg-red-200",
-      "description": "Fresh and organic green kale for your salads.",
-      "price": 2.99
-    },
-    {
-      "id": 11,
-      "picture": "clothing_item3.jpg",
-      "title": "Men's Blue Jeans",
-      "category": "Clothing",
-      "category_bg": "text-green-400",
-      "card_bg": "bg-green-100",
-      "text_button_bg": "bg-green-200",
-      "description": "Classic blue jeans for men.",
-      "price": 34.99
-    },
-    {
-      "id": 12,
-      "picture": "education_item3.jpg",
-      "title": "History Encyclopedia",
-      "category": "Education",
-      "category_bg": "text-red-500",
-      "card_bg": "bg-red-100",
-      "text_button_bg": "bg-red-200",
-      "description": "Explore the world's history with this encyclopedia.",
-      "price": 19.99
-    },
-    {
-      "id": 13,
-      "picture": "health_item4.jpg",
-      "title": "Herbal Tea Assortment",
-      "category": "Health",
-      "category_bg": "text-blue-600",
-      "card_bg": "bg-blue-100",
-      "text_button_bg": "bg-blue-200",
-      "description": "A collection of soothing herbal teas.",
-      "price": 9.99
-    },
-    {
-      "id": 14,
-      "picture": "food_item4.jpg",
-      "title": "Fresh Salmon Fillet",
-      "category": "Food",
-      "category_bg": "bg-red-600",
-      "card_bg": "bg-red-100",
-      "text_button_bg": "bg-red-200",
-      "description": "High-quality fresh salmon fillet for your recipes.",
-      "price": 12.99
-    },
-    {
-      "id": 15,
-      "picture": "clothing_item4.jpg",
-      "title": "Women's Green Sweater",
-      "category": "Clothing",
-      "category_bg": "text-green-400",
-      "card_bg": "bg-green-100",
-      "text_button_bg": "bg-green-200",
-      "description": "A cozy green sweater for women.",
-      "price": 19.99
-    },
-    {
-      "id": 16,
-      "picture": "education_item4.jpg",
-      "title": "Art Supplies Kit",
-      "category": "Education",
-      "category_bg": "text-red-500",
-      "card_bg": "bg-red-100",
-      "text_button_bg": "bg-red-200",
-      "description": "Unlock your creativity with this art supplies kit.",
-      "price": 14.99
-    }
-  ]
-  
+  {
+    "id": 1,
+    "Picture": "https://img.freepik.com/free-photo/friends-people-group-teamwork-diversity_53876-31488.jpg?size=626&ext=jpg&ga=GA1.1.1729353853.1694824787&semt=ais",
+    "Title": "Scholarships for Underprivileged Students",
+    "Category": "Education",
+    "category_bg": "#FF444A39",
+    "card_bg": "#FF444A32",
+    "text_button_bg": "#FF444A",
+    "description": "Scholarships for Underprivileged Students is a transformative program that opens the doors of education to those who need it the most. Our mission is to break down barriers and create opportunities for bright young minds from disadvantaged backgrounds.\n\nEducation is the key to a brighter future, and we believe that every child should have access to quality learning. With your support, we provide scholarships that cover tuition fees, books, and educational materials, ensuring that these students can pursue their dreams without financial obstacles.\n\nFor just $3.99, you can contribute to changing a young person's life and helping them reach their full potential. Join us in our mission to empower the next generation through education.",
+    "price": 3.99
+  },
+ 
+  {
+    "id": 2,
+    "Picture": "https://img.freepik.com/free-photo/young-beautiful-fair-haired-woman-knited-hat-sweater-smiling-yellow_176420-7677.jpg?size=626&ext=jpg&ga=GA1.1.1729353853.1694824787&semt=ais",
+    "Title": "Warm Clothing for Winter",
+    "Category": "Clothing",
+    "category_bg": "#79C23F26",
+    "card_bg": "#79C23F26",
+    "text_button_bg": "#79C23F",
+    "description": "Warm Clothing for Winter brings comfort and style to the coldest months of the year. Our collection includes cozy winter essentials designed to keep you warm while looking fashionable.\n\nWe believe that everyone deserves to stay snug during winter, and that's why we offer a range of clothing options, from stylish green polo shirts for men to elegant green sweaters for women. Our clothing is made with care, ensuring durability and warmth.\n\nFor just $29.99, you can enjoy the luxury of staying comfortable and trendy throughout the winter season. Don't let the cold weather dull your style – embrace warmth and fashion with Warm Clothing for Winter.",
+    "price": 29.99
+  },
+  {
+    "id": 3,
+    "Picture": "https://img.freepik.com/free-photo/high-angle-charity-box-being-prepared-donation_23-2148613126.jpg?size=626&ext=jpg&ga=GA1.2.1729353853.1694824787&semt=ais",
+    "Title": "Emergency Food Relief",
+    "Category": "Food",
+    "category_bg": "#F8714726",
+    "card_bg": "#F8714726",
+    "text_button_bg": "#F87147",
+    "description":  "Emergency Food Relief is a lifeline for those facing hunger during challenging times. Our program provides essential food supplies to individuals and families in crisis, ensuring no one goes to bed hungry.\n\nIn a world where food security is a pressing issue, we step in to make a difference. Our emergency food kits include nutritious staples that can sustain a family through difficult circumstances.\n\nFor just $12.99, you can be a part of our mission to combat hunger and provide hope to those in need. Your contribution ensures that families facing adversity have access to nourishing meals when they need it most.",
+    "price": 12.99
+  },
+  {
+    "id": 4,
+    "Picture": "https://img.freepik.com/free-vector/vaccination-cartoon-poster_1284-71605.jpg?size=626&ext=jpg&ga=GA1.1.1729353853.1694824787&semt=ais",
+    "Title": "Vaccination Campaign for Vulnerable Communities",
+    "Category": "Health",
+    "category_bg": "#0052FF33",
+    "card_bg": "#0052FF27",
+    "text_button_bg": "#0052FF",
+    "description":  "Vaccination Campaign for Vulnerable Communities is a vital effort to protect those who are most susceptible to diseases. Our campaign focuses on providing access to life-saving vaccines for communities that often lack proper healthcare resources.\n\nVaccinations are a cornerstone of public health, and your support helps us reach remote areas and underserved populations. We aim to build a shield of immunity around the most vulnerable, ensuring their well-being.\n\nFor just $24.99, you can contribute to the health and safety of vulnerable communities. Join us in our mission to make a difference, one vaccination at a time.",
+    "price": 24.99
+  },
+  {
+    "id": 5,
+    "Picture": "https://img.freepik.com/free-photo/friends-learning-study-group_23-2149257209.jpg?size=626&ext=jpg&ga=GA1.1.1729353853.1694824787&semt=ais",
+    "Title": "Books for School Libraries",
+    "Category": "Education",
+    "category_bg": "#FF444A39",
+    "card_bg": "#FF444A32",
+    "text_button_bg": "#FF444A",
+    "description": "Books for School Libraries is a literary initiative aimed at enriching the educational experience of students. We believe that access to quality books is essential for a well-rounded education.Our program provides schools with a diverse range of books that cater to various interests and reading levels. From adventure tales to scientific discoveries, we offer a treasure trove of knowledge and imagination.For just $5.99, you can help us fill school libraries with books that inspire and educate. Join us in fostering a love for reading and learning among students, opening doors to endless possibilities.",
+    "price": 5.99
+  },
+  {
+    "id": 6,
+    "Picture": "https://img.freepik.com/free-photo/side-view-homeless-man-outdoors-with-cane-copy-space_23-2148760838.jpg?size=626&ext=jpg&ga=GA1.1.1729353853.1694824787&semt=ais",
+    "Title": "Winter Coats for Homeless Individuals",
+    "Category": "Clothing",
+    "category_bg": "#79C23F26",
+    "card_bg": "#79C23F26",
+    "text_button_bg": "#79C23F",
+    "description": "Winter Coats for Homeless Individuals is a compassionate endeavor to provide warmth and dignity to those experiencing homelessness. As temperatures drop, we aim to be a source of comfort and protection.\n\nOur program offers high-quality winter coats that are not only functional but also stylish. We believe that everyone deserves to feel their best, regardless of their circumstances.\n\nFor just $39.99, you can make a significant impact by ensuring that homeless individuals stay warm during the coldest months. Join us in spreading warmth and kindness to those in need.",
+    "price": 39.99
+  },
+   {
+    "id": 7,
+    "Picture": "https://img.freepik.com/free-photo/young-girl-pediatrician-consultation-with-her-doctor_23-2149187430.jpg?size=626&ext=jpg&ga=GA1.1.1729353853.1694824787&semt=ais",
+    "Title": "Medical Supplies for Children",
+    "Category": "Health",
+    "category_bg": "#0052FF33",
+    "card_bg": "#0052FF27",
+    "text_button_bg": "#0052FF",
+    "description": "Medical Supplies for Children is a crucial initiative dedicated to ensuring the well-being of our youngest generation. This comprehensive guide to maintaining a healthy lifestyle for kids encompasses a wide range of essential medical supplies and resources. From baby thermometers to child-friendly bandages, we've got you covered.\n\nIn a world where health is of utmost importance, especially for children, this program stands as a beacon of hope. Our mission is to provide families with the tools and knowledge needed to safeguard their children's health effectively.\n\nWe understand that raising healthy kids is a collective effort, and that's why we offer this invaluable resource at an affordable price of $19.99. Together, we can build a healthier future for our children, ensuring they grow up strong and resilient.",
+    "price": 19.99
+  },
+  {
+    "id": 8,
+    "Picture": "https://img.freepik.com/free-photo/high-angle-islamic-family-with-delicious-food_23-2149636065.jpg?size=626&ext=jpg&ga=GA1.1.1729353853.1694824787&semt=ais",
+    "Title": "Meal Kits for Families in Need",
+    "Category": "Food",
+    "category_bg": "#F8714726",
+    "card_bg": "#F8714726",
+    "text_button_bg": "#F87147",
+    "description": "Meal Kits for Families in Need is a program that aims to alleviate hunger and provide nourishment to struggling families. We understand that access to balanced meals is essential for physical and emotional well-being.\n\nOur meal kits contain a variety of nutritious and easy-to-prepare foods, ensuring that families can enjoy wholesome meals together. Your support helps us ensure that no one has to go to bed hungry.\n\nFor just $29.99, you can be part of our mission to provide sustenance and hope to families facing challenging times. Join us in making a difference, one meal at a time.",
+    "price": 29.99
+  },
+  {
+    "id": 9,
+    "Picture": "https://img.freepik.com/free-vector/pregnancy-maternity-scene_24908-56914.jpg?size=626&ext=jpg&ga=GA1.1.1729353853.1694824787&semt=ais",
+    "Title": "Maternal Health Care Support",
+    "Category": "Health",
+    "category_bg": "#0052FF33",
+    "card_bg": "#0052FF27",
+    "text_button_bg": "#0052FF",
+    "description": "Maternal Health Care Support is a vital program dedicated to ensuring the well-being of expectant mothers. We believe that every mother should have access to quality healthcare during pregnancy and childbirth.\n\nOur program provides a range of support, including prenatal check-ups, access to essential medical supplies, and educational resources for expectant mothers. We are committed to reducing maternal mortality rates and ensuring the health of both mothers and their babies.\n\nFor just $59.99, you can make a significant impact by supporting maternal health care. Join us in safeguarding the health and happiness of mothers and their newborns.",
+    "price": 59.99
+  },
+  {
+    "id": 10,
+    "Picture": "https://img.freepik.com/free-photo/children-using-building-kit_7502-7346.jpg?size=626&ext=jpg&ga=GA1.2.1729353853.1694824787&semt=ais",
+    "Title": "STEM Education Programs",
+    "Category": "Education",
+    "category_bg": "#FF444A39",
+    "card_bg": "#FF444A32",
+    "text_button_bg": "#FF444A",
+    "description":  "STEM Education Programs are designed to ignite the curiosity and passion for science, technology, engineering, and mathematics in young minds. We believe that these fields hold the key to innovation and a brighter future.\n\nOur programs offer hands-on learning experiences, interactive workshops, and access to cutting-edge resources. We aim to inspire the next generation of scientists, engineers, and innovators.\n\nFor just $2.99, you can support STEM education and help us create a generation of problem solvers and innovators. Join us in nurturing young minds and building a future driven by knowledge and creativity.",
+    "price": 2.99
+  },
+  {
+    "id": 11,
+    "Picture": "https://img.freepik.com/free-photo/group-kids-spending-time-after-school-together-handsome-friends-resting-after-classes-before-start-doing-homework-modern-loft-interior-schooltime-friendship-education-togetherness-concept_155003-25467.jpg?size=626&ext=jpg&ga=GA1.2.1729353853.1694824787&semt=ais",
+    "Title": "School Uniforms for Children",
+    "Category": "Clothing",
+    "category_bg": "#79C23F26",
+    "card_bg": "#79C23F26",
+    "text_button_bg": "#79C23F",
+    "description": "School Uniforms for Children is a program dedicated to ensuring that every child has access to appropriate attire for school. We believe that school uniforms promote a sense of equality and community among students.Our program provides high-quality school uniforms, including classic blue jeans for boys and comfortable dresses for girls. We aim to remove the financial burden from families and create an inclusive educational environment.\n\nFor just $34.99, you can help us dress students for success and support their educational journey. Join us in making sure that every child is ready to learn and thrive.",
+    "price": 34.99
+  },
+  {
+    "id": 12,
+    "Picture": "https://img.freepik.com/free-photo/medium-shot-volunteers-with-food-donations_23-2149182005.jpg?size=626&ext=jpg&ga=GA1.1.1729353853.1694824787&semt=ais",
+    "Title": "Community Food Banks",
+    "Category": "Food",
+    "category_bg": "#F8714726",
+    "card_bg": "#F8714726",
+    "text_button_bg": "#F87147",
+    "description":  "Community Food Banks are a lifeline for individuals and families facing food insecurity. We believe that access to nutritious food is a basic human right, and our food banks are here to make that a reality.\n\nOur food banks provide a wide variety of food items, from fresh produce to pantry staples, ensuring that those in need can enjoy balanced and healthy meals. Your support helps us feed the hungry and provide hope to struggling communities.\n\nFor just $19.99, you can join us in the fight against hunger and help create a world where no one has to go to bed with an empty stomach. Together, we can make a difference.",
+    "price": 19.99
+  },
+  {
+    "id": 13,
+    "Picture": "https://img.freepik.com/free-photo/paramedic-giving-oxygen-injured-girl_107420-63759.jpg?size=626&ext=jpg&ga=GA1.2.1729353853.1694824787&semt=ais",
+    "Title": "Emergency Medical Response",
+    "Category": "Health",
+    "category_bg": "#0052FF33",
+    "card_bg": "#0052FF27",
+    "text_button_bg": "#0052FF",
+    "description": "Emergency Medical Response is a critical program that provides immediate medical assistance during emergencies. We understand that quick and effective medical care can save lives, and that's why we're here to help.nOur team of trained medical professionals and first responders are ready to spring into action when disaster strikes. Whether it's natural disasters, accidents, or medical crises, we're on the front lines providing essential care and support.\n\nFor just $9.99, you can be a part of our life-saving mission. Your contribution helps us equip and mobilize our teams, ensuring that we can respond swiftly to emergencies and make a difference in people's lives when they need it most.",
+    "price": 9.99
+  },
+  {
+    "id": 14,
+    "Picture": "https://img.freepik.com/free-photo/fresh-organic-fruits-front-happy-girl_23-2147855349.jpg?size=626&ext=jpg&ga=GA1.1.1729353853.1694824787&semt=ais",
+    "Title": "Nutrition Programs for Children",
+    "Category": "Food",
+    "category_bg": "#F8714726",
+    "card_bg": "#F8714726",
+    "text_button_bg": "#F87147",
+    "description": "Nutrition Programs for Children is a comprehensive initiative dedicated to ensuring that every child receives the nutrition they need to grow and thrive. We understand that proper nutrition is the foundation of a healthy and happy childhood.\n\nOur programs provide access to nutritious meals, educational resources on healthy eating, and support for families in need. We aim to reduce childhood hunger and promote lifelong well-being.\n\nFor just $14.99, you can be part of our mission to nourish young lives and create a brighter future for children. Join us in making a difference, one meal at a time.",
+    "price": 14.99
+  },
+  {
+    "id": 15,
+    "Picture": "https://img.freepik.com/free-photo/apple-stationery-near-schoolbag_23-2147863670.jpg?size=626&ext=jpg&ga=GA1.1.1729353853.1694824787&semt=ais",
+    "Title": "School Supplies for Disadvantaged Students",
+    "Category": "Education",
+    "category_bg": "#FF444A39",
+    "card_bg": "#FF444A32",
+    "text_button_bg": "#FF444A",
+    "description": "School Supplies for Disadvantaged Students is an initiative dedicated to equipping young learners with the tools they need for academic success. We believe that access to quality school supplies should not be a barrier to education.Our program provides high-quality school supplies, including notebooks, pens, and textbooks, to students who may otherwise go without. We aim to empower these students to excel in their studies and pursue their dreams.\n\nFor just $12.99, you can support disadvantaged students on their educational journey. Join us in providing the foundation for a brighter future through education.",
+    "price": 12.99
+  },
+  {
+    "id": 16,
+    "Picture": "https://img.freepik.com/free-photo/front-view-homeless-woman-blanket-outside_23-2148760846.jpg?size=626&ext=jpg&ga=GA1.1.1729353853.1694824787&semt=ais",
+    "Title": "Warm Blankets for Homeless Shelters",
+    "Category": "Clothing",
+    "category_bg": "#79C23F26",
+    "card_bg": "#79C23F26",
+    "text_button_bg": "#79C23F",
+    "description": "Warm Blankets for Homeless Shelters is a compassionate effort to provide comfort and warmth to those experiencing homelessness. We understand that the nights can be harsh, and we aim to offer solace.\n\nOur warm blankets are designed to provide not only physical warmth but also a sense of security and care. We believe that everyone deserves to feel safe and protected.\n\nFor just $19.99, you can make a significant impact by ensuring that homeless individuals have access to warm blankets during the coldest nights. Join us in spreading warmth and kindness to those in need.",
+    "price": 19.99
+  }
+]
