@@ -27,7 +27,7 @@ const Product = () => {
             addedProducts.push(product)
             localStorage.setItem('products' , JSON.stringify(addedProducts))
             Swal.fire(
-                'Added Successfully',
+                'Donation Successful',
                 'success'
               )
         }else
@@ -38,7 +38,7 @@ const Product = () => {
                 addedProducts.push(...donationProducts , product);
                 localStorage.setItem('products' , JSON.stringify(addedProducts))
                 Swal.fire(
-                    'Added Successfully',
+                    'Donation Successful',
                     'success'
                   )
             }
@@ -46,7 +46,7 @@ const Product = () => {
             {
                 Swal.fire({
                     icon: 'error',
-                    title: 'ALready Added...',
+                    title: 'ALready Donated...',
                   })
             }
 

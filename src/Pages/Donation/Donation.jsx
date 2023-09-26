@@ -7,6 +7,7 @@ const Donation = () => {
 
     const [donations , setDonations] = useState([])
     const [noData , setNoData] = useState("")
+    const [isShow , setIsShow] = useState("")
 
 
     useEffect(()=>
@@ -66,8 +67,17 @@ const Donation = () => {
 
                         <div className='grid md:grid-cols-2 grid-cols-1 gap-6 my-[30px]'>
                             {
-                                donations.map(donation => <DonCard donation={donation} key={donation.id}></DonCard>)
+                                isShow ? donations.map(donation => <DonCard donation={donation} key={donation.id}></DonCard>) :
+                                donations.slice(0,4).map(donation => <DonCard donation={donation} key={donation.id}></DonCard>)
                             }
+                        </div>
+                       
+                        <div className='text-center'>
+                        
+                        {
+                            donations.length > 4 && <button onClick={()=> setIsShow(!isShow)} className='bg-green-500 px-5 py-2 rounded text-white'>{isShow ? "See Less" : "See More"}</button>
+                        }
+                            
                         </div>
                     </div>
                 }
