@@ -20,13 +20,17 @@ const Product = () => {
         <div>
             
             <div className='my-[20px]'>
-                <div className='w-full relative'>
-                    <img className='w-full h-[300px] rounded' src={Picture} alt="" />
-
-                    <div>
-                        <div style={{backgroundColor : text_button_bg}} className='flex absolute bottom-7 left-5  gap-2 px-3 py-2 text-xl rounded text-white '>
-                        <h3>Donate</h3>
-                        <h3>${price}</h3>
+                <div className='w-full relative '>
+                    <img className='w-full h-[300px] rounded ' src={Picture} alt="" />
+                    
+                    <div className='absolute bottom-0 left-0 w-full '>
+                    <div className="bg-black bg-opacity-50 text-white p-10">
+                        <div>
+                        <div style={{ backgroundColor: text_button_bg }} className='flex absolute bottom-5 left-10 gap-2 px-3 py-1 text-xl rounded text-white'>
+                            <h3>Donate</h3>
+                            <h3>${price}</h3>
+                        </div>
+                        </div>
                     </div>
                     </div>
                     
