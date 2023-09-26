@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import Swal from 'sweetalert2'
 import { useLoaderData, useParams } from 'react-router-dom';
 
 const Product = () => {
@@ -16,6 +17,44 @@ const Product = () => {
         setProduct(findProduct);
     },[id , products])
 
+    const hanleAddProduct = () =>{
+        const addedProducts = [];
+
+        const donationProducts =   JSON.parse(localStorage.getItem('products'));
+
+        if(!donationProducts)
+        {
+            addedProducts.push(product)
+            localStorage.setItem('products' , JSON.stringify(addedProducts))
+            Swal.fire(
+                'Added Successfully',
+                'success'
+              )
+        }else
+        {
+            const isExists = donationProducts.find(product => product.id === id);
+            if(!isExists)
+            {
+                addedProducts.push(...donationProducts , product);
+                localStorage.setItem('products' , JSON.stringify(addedProducts))
+                Swal.fire(
+                    'Added Successfully',
+                    'success'
+                  )
+            }
+            else
+            {
+                Swal.fire({
+                    icon: 'error',
+                    title: 'ALready Added...',
+                  })
+            }
+
+            
+
+        }
+    }
+
     return (
         <div>
             
@@ -27,8 +66,9 @@ const Product = () => {
                     <div className="bg-black bg-opacity-50 text-white p-10">
                         <div>
                         <div style={{ backgroundColor: text_button_bg }} className='flex absolute bottom-5 left-10 gap-2 px-3 py-1 text-xl rounded text-white'>
-                            <h3>Donate</h3>
-                            <h3>${price}</h3>
+                           
+                            
+                            <button onClick={hanleAddProduct}>Donate <span>${price}</span></button>
                         </div>
                         </div>
                     </div>
