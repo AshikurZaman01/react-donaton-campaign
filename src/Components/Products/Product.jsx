@@ -11,8 +11,8 @@ const Product = () => {
 
     const [product , setProduct] = useState();
     const { Picture, Category, Title, card_bg, category_bg, text_button_bg , price, description} = product || {};
+    
     useEffect(()=>{
-        
         const findProduct = products?.find(pro => pro.id === id);
         setProduct(findProduct);
     },[id , products])

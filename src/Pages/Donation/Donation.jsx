@@ -14,6 +14,8 @@ const Donation = () => {
     {
         const donationProducts =   JSON.parse(localStorage.getItem('products'));
 
+        const doAmount = donationProducts.reduce((pre , current)=> pre + current.price , 0)
+
         if(donationProducts){
             setDonations(donationProducts);
         }else
@@ -50,6 +52,7 @@ const Donation = () => {
 
     return (
         <div>
+           
             <div>
                 {
                     noData ? <h2 className='text-3xl font-bold flex justify-center items-center h-[70vh]'>{noData}</h2> : 
