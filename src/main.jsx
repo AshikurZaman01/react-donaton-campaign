@@ -11,6 +11,7 @@ import Home from './Components/Home/Home';
 import Donation from './Pages/Donation/Donation';
 import Statistics from './Pages/Statistics/Statistics';
 import Product from './Components/Products/Product';
+import Banner from './Components/Header/Banner/Banner';
 
 
 const router = createBrowserRouter([
@@ -39,7 +40,11 @@ const router = createBrowserRouter([
         path : "/products/:id",
         element : <Product></Product>,
         loader : () => fetch('/data.json')
-
+      },
+      {
+        path : "/products/:findData",
+        element : <Banner></Banner>,
+        loader : () => fetch('/data.json')
       }      
     ]
     

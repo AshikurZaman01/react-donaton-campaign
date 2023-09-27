@@ -14,7 +14,6 @@ const Donation = () => {
     {
         const donationProducts =   JSON.parse(localStorage.getItem('products'));
 
-        const doAmount = donationProducts.reduce((pre , current)=> pre + current.price , 0)
 
         if(donationProducts){
             setDonations(donationProducts);
