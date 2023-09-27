@@ -59,7 +59,7 @@ const Statistics = () => {
         </PieChart>
       </ResponsiveContainer>
 
-      <div className='flex justify-center items-center gap-10 text-2xl'>
+      <div className='flex flex-col sm:flex-col lg:flex-row justify-center items-center gap-10 text-2xl'>
         <h2>Total Amount: $<span className='text-red-500 font-bold'>{totalAmount.toFixed(2)}</span> </h2>
         <h2>Donation Amount: $<span className='text-green-400 font-bold'>{donationAmount.toFixed(2)}</span> </h2>
       </div>
